@@ -1,4 +1,6 @@
 arm PELION Device Shadow bridge for IBM Watson IoT                    
+
+02/24/2020: updated bridge - final fixes for draft mode mqtt formatting
   
 02/24/2020: updated bridge - resync with dockerhub
 
